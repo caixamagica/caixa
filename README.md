@@ -15,7 +15,7 @@ A Caixa Mágica é baseada em soluções de hardware e softwares acessíveis e, 
  - Bateria externa (PowerBank) com 2 duas entradas USB
 
 **Imagem (ISO) do sistema**
-Em breve
+[Versão alpha](https://www.dropbox.com/s/d33vweaucp0c8ce/caixamagica.img?dl=0)
  
 **Software utilizado**
  - LAMP (GNU/Linux Debian, Apache, MySQL, PHP)
@@ -32,12 +32,11 @@ Em breve
 
 ### Como armar una Caja Magica con la ISO?
 
- 1. Grabar la imagen de la ultima versión de 'Caixa Magica' en la tarjeta SD SD. Puedes utilizar softwares como o [Etcher](http://etcher.io) para eso. Despues de completo el proceso, insira la tarjeta SD en tu Raspberry Pi.
+ 1. Grabar la imagen de la [ultima versión de 'Caixa Magica'](https://www.dropbox.com/s/d33vweaucp0c8ce/caixamagica.img?dl=0) en la tarjeta SD. Puedes utilizar softwares como o [Etcher](http://etcher.io) para eso. Basta descargar el fichero, abrir Etcher y seleccionar la imagen ISO y la tarjeta. Despues de completo el proceso, insira la tarjeta SD en tu Raspberry Pi.
  2. Conectar el router a la Raspberry Pi con un cabo ethernet y a la bateria externa com en el cabo USB.
  3. Conectar la Raspberry Pi en la bateria y aguardar algunos minutos para el sistema inicializar.
  4. Si todo va bien, ahora tienes una red WiFi llamada 'Caixa Mágica'. Ahora, conectate y, si el portal no abre automaticamente, con tu browser entre directamente en la URL http://magia.caixamagica.eu
- 5. Selecione la opción 'Editar' en el 'Listado de Caixa'
-
+ 5. Selecione la opción 'Editar' en el 'Listado de Caixa' y modifique las perguntas
 
 ### Como montar uma Caixa Mágica desde o zero?
 
