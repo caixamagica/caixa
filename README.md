@@ -23,8 +23,8 @@ A Caixa Mágica é baseada em soluções de hardware e softwares acessíveis e, 
  - [Aplicativo de priorização da Caixa Mágica](https://github.com/caixamagica/caixa-avaliacaolabicbr)
 
 **Senhas utilizadas**
-SSH: pi@192.168.0.1 | raspberry
-MySQL: root | root | db name: caixa_magica
+- SSH: pi@192.168.0.1 | raspberry
+- MySQL: root | root | db name: caixa_magica
 
 
 ### Como montar uma Caixa Mágica com a ISO? 
